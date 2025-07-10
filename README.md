@@ -1,2 +1,4 @@
-# Big-BadProduction-Rust-
-A Guide on Design Patterns using Rust
+# Big-BadProduction-Rust 🦀
+## A Guide on Design Patterns using Rust
+
+Under Construction 🚧 
